@@ -1,0 +1,8 @@
+RESUME VALIDATION REPORT
+
+Email: anamika123@gmail.com
+Phone: 9876543210
+Skills:
+- C++
+- SQL
+- Python

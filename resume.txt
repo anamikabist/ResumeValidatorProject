@@ -1,0 +1,12 @@
+Name: Anamika Bist
+Email: anamika123@gmail.com
+Phone: 9876543210
+
+Education:
+BTech in Information Technology
+
+Skills:
+Python, C++, SQL, Python
+
+Projects:
+Resume Validator using Python
